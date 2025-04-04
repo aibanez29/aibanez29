@@ -1,8 +1,6 @@
 #  About Me:
 I`m currently working as DevOps Engineer with cloud like GCP,Azure <br>
 
-I`m currently learning and improving my Python skill
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aibanez29/) 
